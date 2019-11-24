@@ -8,12 +8,12 @@
 </settings>
 <grid distance="50" unitdist="mil" unit="mil" style="dots" multiple="2" display="yes" altdistance="25" altunitdist="mil" altunit="mil"/>
 <layers>
-<layer number="1" name="Top" color="10" fill="1" visible="yes" active="yes"/>
+<layer number="1" name="Top" color="62" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
 <layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
 <layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="yes"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
@@ -164,19 +164,16 @@
 <text x="26.67" y="39.37" size="5.08" layer="1" font="vector" rot="SR0">Engineering</text>
 <text x="87.63" y="33.02" size="6.4516" layer="1" font="vector" ratio="6" rot="SR270">Math</text>
 <text x="24.13" y="11.43" size="11.43" layer="51" font="vector" ratio="15">Woman</text>
-<text x="92.71" y="19.05" size="3.302" layer="52" font="vector" ratio="12" rot="MR0">"If it is a good idea, go ahead
-and do it.   It's much easier to
-apologize than it is to get
-permission."</text>
+<text x="93.98" y="24.13" size="3.81" layer="52" font="vector" ratio="12" rot="MR0">"Yes, I'm a feminist, because
+I see all women as
+smart, gifted, and tough."</text>
 <text x="3.81" y="12.7" size="1.778" layer="16" font="vector" ratio="15" rot="SMR90">Katy Dickinson
     2019
 John Plocher</text>
-<text x="90.17" y="62.23" size="4.318" layer="52" font="vector" ratio="12" rot="MR0">"If your dreams don't
-scare you, they're not
-big enough!"
-
-- Ellen Johnson Sirleaf</text>
-<text x="92.71" y="8.89" size="5.08" layer="52" font="vector" ratio="12" rot="MR0">- Grace Hopper</text>
+<text x="91.44" y="73.66" size="4.318" layer="52" font="vector" ratio="12" rot="MR0">"I was taught that the
+way of progress was
+neither swift nor easy."</text>
+<text x="92.71" y="8.89" size="5.08" layer="52" font="vector" ratio="12" rot="MR0">- Zaha Hadid</text>
 <text x="15.24" y="66.04" size="19.05" layer="1" font="vector" ratio="20">STEM</text>
 <text x="25.4" y="54.61" size="5.08" layer="1" font="vector" ratio="10" rot="R130">Science</text>
 <text x="22.86" y="55.88" size="6.4516" layer="1" font="vector" ratio="11">Technology</text>
@@ -189,6 +186,7 @@ John Plocher</text>
 <text x="7.62" y="78.74" size="11.43" layer="51" font="vector" ratio="15">Technical</text>
 <text x="24.13" y="63.5" size="11.43" layer="51" font="vector" ratio="15">Woman</text>
 <text x="91.44" y="16.51" size="13.97" layer="16" font="vector" ratio="15" rot="MR0">LEADER</text>
+<text x="92.71" y="58.42" size="5.08" layer="52" font="vector" ratio="12" rot="MR0">- Marie Curie</text>
 </plain>
 <libraries>
 <library name="SPCoast">
