@@ -3,6 +3,6 @@ project: TechWomen
 designer: John Plocher
 fabricated: yes
 fab_date: 
-status: released
+status: obsolete
 release: yes
 tags: [eagle, SPCoast, Misc]
